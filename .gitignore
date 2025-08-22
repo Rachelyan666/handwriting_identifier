@@ -22,3 +22,8 @@ dist/
 
 # macOS
 .DS_Store
+
+data/
+*.zip
+*.gz
+*.ubyte
