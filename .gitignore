@@ -23,7 +23,11 @@ dist/
 # macOS
 .DS_Store
 
+# data
 data/
 *.zip
 *.gz
 *.ubyte
+
+#logs
+flagged/
